@@ -2,6 +2,6 @@
     "name": "duococo-page",
     "compatibility_date": "2025-12-20",
     "assets": {
-      "directory": "docs/.vitepress/dist"
+      "directory": "/.vitepress/dist"
     }
   }
