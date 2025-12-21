@@ -12,13 +12,8 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '手册', link: '/docs/index/index.md' },
-      {
-        text: '其他文档',
-        items: [
-          { text: 'Coco快捷导航', link: '/docs/nav/index' },
-
-        ]
-      }
+      { text: 'Coco快捷导航', link: '/docs/nav/index' }
+      
     ],
 
 
