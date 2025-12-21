@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: coco快捷导航pro max！
       link: /docs/nav/
+    - theme: alt
+      text: 官方聊天室！
+      link: https://chat.hinincs.top/#/chat/channel/1
   image:
       src: https://static.codemao.cn/flowchunkflex/ryW6fbpIxg.png?hash=Fi87WXogaaaZqReQugMCPjZOPXhL
       alt: 这是一个多儿
