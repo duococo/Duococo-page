@@ -32,6 +32,7 @@ export default defineConfig({
           text: 'Duococo',
           items: [
             { text: '欢迎来到Duococo', link: '/docs/index/index.md' },
+            { text: '2025/12/28维护公告', link: '/docs/index/251228.md' },
           ]
         },
         {
