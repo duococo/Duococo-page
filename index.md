@@ -15,7 +15,7 @@ hero:
       link: /docs/nav/
     - theme: alt
       text: 官方聊天室！
-      link: https://chat.hinincs.top/#/chat/channel/1
+      link: /docs/index/251228.md
   image:
       src: https://static.codemao.cn/flowchunkflex/ryW6fbpIxg.png?hash=Fi87WXogaaaZqReQugMCPjZOPXhL
       alt: 这是一个多儿
