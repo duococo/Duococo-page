@@ -8,14 +8,15 @@ hero:
   tagline: duococo教程系列
   actions:
     - theme: brand
-      text: go go go!
-      link: \docs\index\index.md
+      text: api分栏
+      link: \docs\API\生活\每日一言
     - theme: alt
       text: coco快捷导航pro max！
       link: /docs/nav/
     - theme: alt
-      text: 官方聊天室！
-      link: /docs/index/251228.md
+      text: 总览
+      link: \docs\index\index.md
+
   image:
       src: https://static.codemao.cn/flowchunkflex/ryW6fbpIxg.png?hash=Fi87WXogaaaZqReQugMCPjZOPXhL
       alt: 这是一个多儿

@@ -1,7 +1,8 @@
 # 点歌 API <Badge type="tip" text="2025/7/22 正常服务" /><Badge type="warning" text="推荐指数🌟🌟🌟" />
 
 :::tip 本API来自落月API（ <https://doc.vkeys.cn/api-doc/> ）
-原文档链接：<https://doc.vkeys.cn/api-doc/v2/%E9%9F%B3%E4%B9%90%E6%A8%A1%E5%9D%97/QQ%E9%9F%B3%E4%B9%90/1-tencent.html><br>
+原文档链接：<https://doc.vkeys.cn/api-doc/v2/%E9%9F%B3%E4%B9%90%E6%A8%A1%E5%9D%97/QQ%E9%9F%B3%E4%B9%90/1-tencent.html>**（2026/2/2经duococo编写人员文档时效性检查，原文档与实际有所出入，建议以duococo文档为准！）**<br>
+
 *当前 API 为 V2 版本<br>
 *已完整标注原文档链接，如有侵权行为请联系duococo删除！
 

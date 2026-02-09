@@ -1,8 +1,7 @@
-# Amethyst Free Intelligence <Badge type="tip" text="2025/7/31 正常服务" /><Badge type="warning" text="推荐指数🌟🌟🌟🌟🌟" />
+# Amethyst Free Intelligence <Badge type="info" text="2026/2/2 记录停用" />
 
-:::tip 嗯对，免费的AI不用白不用
-（虽然但是宝子们不要滥用哦！靴靴）
-本文档仅收录OpenAI格式
+:::warning 该API已失效
+该API于 2026/2/2 被[@Explore114](https://github.com/Explore114)记录停用，归档15day后将从git提交中删除，如仍需要本页面请及时备份！
 :::
 
 请求方式: <Badge type="warning" text="POST" /> 

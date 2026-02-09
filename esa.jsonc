@@ -1,6 +1,0 @@
-{
-  "name": "duococo-page",
-  "assets": {
-    "directory": ".vitepress/dist"
-  }
-}
