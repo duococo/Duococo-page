@@ -29,7 +29,7 @@ features:
   - title: 姬霓太美
     details: 我不知道这里怎么填
   - title: 简单易用
-    details: 简单的不用教，不简单的文档里会写。小训练师，你们就甭操心啦！
+    details: 其实并非
 ---
 
 <br>
